@@ -6,11 +6,10 @@ Phonebook Microservice Web Application aims to create a web application with MyS
 
 ## result_server
 
-![Project_206] (result_server.png)
+![Project_206](result_server.png) 
 
 ## web_server
-
-![Project_206] (web_server.png)
+![Project_206](web_server.png) 
 
 ## Problem Statement
 
